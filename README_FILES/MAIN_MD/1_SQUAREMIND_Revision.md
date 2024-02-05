@@ -13,14 +13,15 @@
   
   <div style="flex-grow: 1; padding: 1em;">
   
-  # Revision Log
-  
-  | Date       | Document Version | Description                 | Tracking Notes | Approved By     |
-  |------------|------------------|-----------------------------|-----------------|------------------|
-  | 2024-02-01 | v1.000           | First document version      | -               | Dela Cruz, Juan |
-  | 2024-02-18 | v1.001           | Fix popup title string      | ITR #0001       | Santos, Maria    |
-  | 2024-02-22 | v1.002           | Add network information     | CON-0021        | Malaya, Pedro    |
-  | ...        | ...              | ...                         | ...             | ...              |
+# Revision Log
+
+| Date | Document Version | Description | Tracking Notes | Approved By |
+|------|------------------|-------------|----------------|-------------|
+|      |                  |             |                |             |
+|      |                  |             |                |             |
+|      |                  |             |                |             |
+|      |                  |             |                |             |
+
 
   </div>
 </div>
