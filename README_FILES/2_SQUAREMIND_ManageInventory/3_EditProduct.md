@@ -1,6 +1,6 @@
 - [Manage Inventory](../MAIN_MD/3_SQUAREMIND_ManageInventory.md) > Edit Product
 
-<img src="https://github.com/HarleyGotardo/square-mind/assets/111520613/a1b7f193-68c4-4c41-aa7a-a44e27d04114" alt="Add Product" width="300"/>
+<img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/9964a8ed-8342-4f60-a536-2beef49b70c7" alt="Add Product" width="300"/>
 
 # Edit Product
 > This is used for editing a selected product from the inventory.
