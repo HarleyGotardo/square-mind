@@ -1,4 +1,4 @@
-- [Manage Inventory](../MAIN_MD/3_SQUAREMIND_ManageInventory.md) > Add Product
+- [Manage Inventory](../MAIN_MD/3_SQUAREMIND_ManageInventory.md) > Remove Product
 
 <img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/e17dd5eb-3b90-4549-8ec5-41d6c660eddc" width="300"/>
 
