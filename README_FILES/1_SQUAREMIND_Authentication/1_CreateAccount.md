@@ -1,9 +1,10 @@
 - [Authentication](../MAIN_MD/2_SQUAREMIND_Authentication.md) > Create Account
 
-![Add Product](/Mockups/Verification.jpg)
+<img src="https://github.com/HarleyGotardo/square-mind/assets/111520613/c7110ebc-9212-47f2-8545-48355f07d652" alt="Add Product" width="300"/>
 
 # Create Account
 > This is used to register the user to an online database.
+
 
 ## Input:
   ● The user shall fill in the credential input.
