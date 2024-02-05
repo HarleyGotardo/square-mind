@@ -1,9 +1,10 @@
 - [Authentication](../MAIN_MD/2_SQUAREMIND_Authentication.md) > Create Account
 
-<img src="https://github.com/HarleyGotardo/square-mind/assets/111520613/c7110ebc-9212-47f2-8545-48355f07d652" alt="Add Product" width="300"/>
+<img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/7225f6ca-0a77-4a0e-86c1-a874f541b187" alt="Create Account" width="300"/>
 
 # Create Account
 > This is used to register the user to an online database.
+
 
 
 ## Input:
