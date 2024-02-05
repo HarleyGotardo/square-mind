@@ -14,7 +14,7 @@
   <div style="flex-grow: 1; padding: 1em;">
   
 # Revision Log
-
+### No revisions yet
 | Date | Document Version | Description | Tracking Notes | Approved By |
 |------|------------------|-------------|----------------|-------------|
 |      |                  |             |                |             |
