@@ -1,7 +1,7 @@
 - [Manage Inventory](../MAIN_MD/3_SQUAREMIND_ManageInventory.md) > Add Product
 
 
-<img src="Mockups/Add Product.jpg" alt="Add Product" width="300"/>
+![Add Product](Mockups/Add Product.jpg)
 
 # Add Product
 > This is used for adding a product into the inventory.
