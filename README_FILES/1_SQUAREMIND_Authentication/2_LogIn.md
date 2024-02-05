@@ -1,14 +1,16 @@
 - [Authentication](../MAIN_MD/2_SQUAREMIND_Authentication.md) > Login
 
-<img src="https://github.com/HarleyGotardo/square-mind/Mockups/Edit Product.jpg" alt="Edit Product" width="300"/>
+<img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/0439bb06-aa19-4aef-98d9-2562c2f0898b" alt="Edit Product" width="300"/>
 
 # User Login
-> This is used to authenticate the user with the application.
+> This is used to authenticate the user with the application. 
 
 ## Input:
+
   ● To login, the user must enter his or her credentials.
 
 ## Process:
+
   ● The user shall enter his or her email address or mobile number.
   
   ● The user shall enter his or her password.
