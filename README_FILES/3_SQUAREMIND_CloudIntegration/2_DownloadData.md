@@ -1,6 +1,6 @@
 - [Cloud Integration](../MAIN_MD/4_SQUAREMIND_CloudIntegration.md) > Download Data
 
-<img src="https://github.com/HarleyGotardo/square-mind/assets/111520613/6293cd21-0c53-44fb-8565-1a781b7a358d" alt="Add Product" width="300"/>
+<img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/111350ee-079a-4fc6-a6ac-3ef31eb20c87" alt="Add Product" width="300"/>
 
 # Downlood Data
 > This is used to download data from the cloud database.
