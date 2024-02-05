@@ -1,6 +1,6 @@
 - [Manage Inventory](../MAIN_MD/3_SQUAREMIND_ManageInventory.md) > Add Product
 
-<img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/041ed219-1a1a-402e-9c56-6f85176c2637" width="300"/>
+<img src="https://github.com/HarleyGotardo/square-mind/assets/106173250/e17dd5eb-3b90-4549-8ec5-41d6c660eddc" width="300"/>
 
 # Remove Product
 > This is used for deleting selected product(s) from the inventory.
