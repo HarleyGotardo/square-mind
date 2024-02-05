@@ -1,6 +1,6 @@
 - [Authentication](../MAIN_MD/2_SQUAREMIND_Authentication.md) > Create Account
 
-<img src="Mockups/Add Product.jpg" alt="Add Product" width="300"/>
+![Add Product](Mockups/Add Product.jpg)
 
 # Create Account
 > This is used to register the user to an online database.
